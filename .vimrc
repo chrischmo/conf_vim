@@ -49,7 +49,6 @@ NeoBundleCheck
 
 
 " Theming & colors:
-set term=putty-256color
 set t_Co=256
 
 set background=dark
