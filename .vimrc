@@ -22,7 +22,6 @@ NeoBundle 'flazz/vim-colorschemes'
 " My bundles:
 NeoBundle 'scrooloose/syntastic'
 NeoBundle 'Valloric/YouCompleteMe'
-NeoBundle 'tpope/vim-fugitive'
 NeoBundle 'sjl/gundo.vim'
 NeoBundle 'bling/vim-airline'
 NeoBundle 'christoomey/vim-tmux-navigator'
